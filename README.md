@@ -10,6 +10,12 @@ This project was created as part of an Arduino practice exercise using Tinkercad
 
 ---
 
+## Demo
+
+![Servo Sweep](images/servo_demo.gif)
+
+---
+
 ## Components
 
 - Arduino Uno
@@ -33,8 +39,9 @@ This project was created as part of an Arduino practice exercise using Tinkercad
 
 ```
 .
-├── images/
-│   └── circuit.png
+├── images
+│   ├── circuit.png
+│   └── servo_demo.gif
 ├── 4_servo_motors_sweeping.ino
 └── README.md
 ```
