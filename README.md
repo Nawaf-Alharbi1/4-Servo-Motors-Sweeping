@@ -16,6 +16,14 @@ This project was created as part of an Arduino practice exercise using Tinkercad
 
 ---
 
+## Simulation
+
+Interactive Tinkercad project:
+
+🔗 [Open in Tinkercad](https://www.tinkercad.com/things/6slLLssOefS-4-servo-motors-sweeping?sharecode=j8d014Tvto5uZ94prgRFLn7fQY-Nemzl5WU74K2vAbM)
+
+---
+
 ## Components
 
 - Arduino Uno
